@@ -1,0 +1,7 @@
+
+build/
+*.sublime-workspace
+a.out
+premake5
+premake5.lua
+nebula/
